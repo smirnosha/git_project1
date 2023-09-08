@@ -14,3 +14,4 @@ plt.title('График функции')
 plt.show()
 #commit Версия 2.0
 #commit 1 Версия 2.0
+#commit 2 Версия 2.0
